@@ -5,7 +5,7 @@ I'm currently developing a Android and Fire TV app for a streaming platform that
 
 
 ## 🔭 Personal projects:
-Check out my some of my personal projects -> [Portfolio](gustavopequeno.com) <br> <br>
+Check out my some of my personal projects -> [Portfolio](www.gustavopequeno.com) <br> <br>
 [Moviebase Watchlist](https://gustavopequeno.com/movieManager.html) is an Android app published in the Google Playstore for who wants to get more information about movies! <br>
 [Car Manager](https://github.com/gustavopeq/CarManager) is an Android app that I'm currently working on my free time. This app will be used for anyone that wants to have a better control over your cars, to track performace and costs. <br>
 
