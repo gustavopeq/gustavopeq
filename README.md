@@ -1,12 +1,12 @@
 ### Hey, I'm Gustavo and I work with Android Development
 
-I'm currently developing a Android and Fire TV app for a streaming platform that has more than 120 million active users!!
+I'm currently developing an Android and Fire TV app for a streaming platform that has more than 13 million active users!!
 
 
 
 ## 🔭 Personal projects:
 Check out my some of my personal projects -> [Portfolio](https://gustavopequeno.com) <br> <br>
-[Moviebase Watchlist](https://gustavopequeno.com/movieManager.html) is an Android app published in the Google Playstore for who wants to get more information about movies! <br>
+[CineTracker](https://gustavopequeno.com/cinetracker.html) is an Android app published in the Google Playstore for who wants to get more information about movies! <br>
 [Car Manager](https://github.com/gustavopeq/CarManager) is an Android app that I'm currently working on my free time. This app will be used for anyone that wants to have a better control over your cars, to track performace and costs. <br>
 
 ## 🌐 Socials:
